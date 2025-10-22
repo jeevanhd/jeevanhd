@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeevan</h1>
 <h3 align="center">🚀 Software Product Engineer | Quantum Physics Enthusiast | Philosopher</h3>
 
-- 📫 How to reach me **jeevanhd1313@gmail.com**
-
-- ⚡ Fun fact **I love solving math puzzles and exploring quantum ideas.**
-
 <p align="left">
 </p>
 
