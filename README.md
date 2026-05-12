@@ -74,11 +74,6 @@ const jeevan = {
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=jeevan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" height="170"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" height="170"/>
-
-  <br><br>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevan&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
 
