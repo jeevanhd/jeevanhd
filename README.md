@@ -10,7 +10,7 @@
 ---
 
 <!-- About -->
-## 🧠 Who am I?
+##  Who am I?
 
 ```ts
 const jeevan = {
@@ -26,19 +26,17 @@ const jeevan = {
 ---
 
 <!-- Projects -->
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | What it does | Stack |
 |--------|-------------|-------|
-| **[AegisAI](https://github.com/jeevan)** | FastAPI-based service integrating Notion API — an AI-powered productivity layer | FastAPI · Python · Notion API |
-| **[InvoPro](https://github.com/jeevan)** | Invoice management platform with a clean full-stack architecture | React · Express · MongoDB |
+| **[AegisAI](https://github.com/jeevanhd/AegisAI)** | FastAPI-based service integrating Notion API — an AI-powered productivity layer | FastAPI · Python · Notion API |
 
-> 💡 *Links above — replace with your actual repo URLs!*
 
 ---
 
 <!-- Tech Stack -->
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -72,7 +70,7 @@ const jeevan = {
 ---
 
 <!-- GitHub Stats -->
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -89,12 +87,12 @@ const jeevan = {
 ---
 
 <!-- Currently -->
-## 🌱 Currently
+##  Currently
 
-- 🔧 Dockerizing and deploying **AegisAI** and **InvoPro** end-to-end
-- 📦 Learning **Kubernetes** and **Terraform** for infra-as-code
-- 🧪 Exploring **system design** patterns for scalable backends
-- 🔭 Somewhere between **Quantum Mechanics** and **Philosophy of Mind** in my reading list
+-  Dockerizing and deploying **AegisAI** and **InvoPro** end-to-end
+- Learning **Kubernetes** and **Terraform** for infra-as-code
+-  Exploring **system design** patterns for scalable backends
+-  Somewhere between **Quantum Mechanics** and **Philosophy of Mind** in my reading list
 
 ---
 
